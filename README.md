@@ -1,0 +1,2 @@
+Man viss sanāca jo biju jau līdzīgas lietas mājās atkārtojis, izņemot 5. jo tas bija kaut kas jauns un nācās izvēlēties pareizo funkciju ko importēt.
+Manuprāt man viss sanāca ļoti labi, tēma nav tik grūta, esmu apguvis augšupielādēt savu GIT
